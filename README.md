@@ -1,5 +1,6 @@
 # React_Ecommerce_Web_App
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a0d5c2de-2878-4e8f-8d21-b874e82856f8/deploy-status)](https://app.netlify.com/sites/felixhome/deploys)
+
+![Felix](https://user-images.githubusercontent.com/71797725/220695766-70a005d7-494c-43b1-9ba9-d1fc596b4cf6.jpg)
 
 ECommerce Web App using Reactjs, Material UI, Stripjs and Commercejs.
 A complete ecommerce website, which contain basics functions:
